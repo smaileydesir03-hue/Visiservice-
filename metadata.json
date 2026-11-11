@@ -1,0 +1,6 @@
+{
+  "name": "Visi Service - Agence Digitale",
+  "description": "Agence digitale professionnelle : création de sites web performants, marketing digital, réseaux sociaux et identité visuelle sur-mesure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
